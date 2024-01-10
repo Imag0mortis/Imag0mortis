@@ -8,7 +8,7 @@ Front-end developer
 
 * 🌍  Я живу в Москве (Россия)
 * ✉️  Вы можете связаться со мной по почте [ikes4877@gmail.com](mailto:ikes4877@gmail.com)
-* 🧠  I'm learning Angular, JavaScript, TypeScript, NodeJS, NestJS
+* 🧠  Активно изучаю, Angular, JavaScript, TypeScript, NodeJS
 
 ### Навыки
 
